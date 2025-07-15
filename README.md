@@ -1,3 +1,4 @@
+# JBank – Simulador de Operações Bancárias e Investimentos
 Este é um projeto de aplicação em console desenvolvido em 
 Java que simula operações bancárias e de investimentos, com o 
 objetivo de praticar conceitos fundamentais de orientação a objetos, 
